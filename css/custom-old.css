@@ -1,0 +1,253 @@
+body {
+  background: dodgerBlue;
+}
+
+#page {
+  background: dodgerBlue;
+}
+
+#wrapper {
+  background: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+  width: 100%;
+}
+
+#menu {
+  background: navy;
+  float: left;
+  height: 28px;
+  width: 100%;
+}
+
+#main {
+  float: left;
+}
+
+#main-top {
+  margin-top: 10px;
+  width: 100%;
+}
+
+#funeral-mass-alert {
+  background: skyBlue;
+  float: left;
+  height: auto;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 98%;
+}
+
+#funeral-mass-alert div.block {
+  padding-left: 10px;
+}
+
+#funeral-mass-alert h2 {
+  color: black;
+}
+
+#rotator {
+  background: pink;
+  float: left;
+  height: 450px;
+  margin-left: 10px;
+  margin-top: 10px;
+  width: 68%;
+}
+
+#welcome {
+  background: lightGreen;
+  float: left;
+  height: 450px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  width: 29%;
+}
+
+#welcome div.block {
+  padding-left: 5px;
+  padding-top: 10px;
+}
+
+#home-left {
+  background: lightSkyBlue;
+  float: left;
+  height: 625px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-top: 10px;
+  width: 68%;
+}
+
+#home-left h2 {
+  color: black;
+}
+
+#home-left h3 {
+  color: purple;
+}
+
+#home-left div.block {
+  padding-left: 5px;
+}
+
+#home-right {
+  float: left;
+  height: 625px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  width: 29%;
+}
+
+#footer {
+  background: skyBlue;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.megamenu-skin-minimal {
+  background: transparent;
+}
+
+.megamenu-skin-minimal .megamenu-bin {
+  background-color: #BCD2EE;
+}
+
+.megamenu-skin-minimal .hovering .megamenu-parent-title a:hover {
+  background: skyBlue;
+  color: #00009C;
+}
+
+.megamenu-skin-minimal .megamenu-parent-title a,
+.megamenu-skin-minimal .megamenu-parent-title a:link,
+.megamenu-skin-minimal .megamenu-parent-title a:visited,
+.megamenu-skin-minimal .megamenu-parent-title a:focus,
+.megamenu-skin-minimal .megamenu-parent-title a:hover,
+.megamenu-skin-minimal .megamenu-parent-title a:active,
+.megamenu-skin-minimal .megamenu-parent-title span {
+  background-color: transparent;
+  color: white;
+  font-size: 1.4em;
+  padding: 5px 20px 1px 15px;
+  text-transform: uppercase;
+}
+
+.megamenu-skin-minimal .megamenu-slot-title, .megamenu-skin-minimal .megamenu-slot-title a {
+  background-color: dodgerBlue;
+}
+
+ul#megamenu-primary-links li h3 a {
+  color: white;
+}
+
+#menu div.block {
+  margin-top: 5px;
+}
+
+.field-field-photo {
+    text-align: center;
+}
+.field-field-pagetop {
+    margin-top: 5px;
+}
+.field-field-photos {
+    margin-top: 5px;
+}
+.field-field-bulletin-author {
+    margin-bottom: 10px;
+}
+div.view-staff {
+    margin-right: -10%;
+}
+div.view-bulletin-articles {
+    padding-top: 15px;
+}
+div.view-bulletin-articles tr.even td, div.view-bulletin-articles tr.odd td {
+}
+div.view-bulletin-articles .view-title {
+    color: #1E326F;
+    font-size: 24px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.view-ministries .views-field-title {
+    font-size: 1.5em;
+    font-style: italic;
+    margin-bottom: 0.4em;
+}
+.view-ministries .views-field-nid a {
+    background: none repeat scroll 0 0 dodgerBlue;
+    color: #FFFFFF;
+    float: right;
+    padding: 0.2em 0.4em;
+}
+.view-ministries .views-row {
+    border-bottom: 1px solid #CCCCCC;
+    margin-bottom: 1em;
+    min-height: 100px;
+    padding-bottom: 1em;
+    position: relative;
+}
+.view-ministries .views-field-field-photos-fid img {
+    border: 2px solid #CCCCCC;
+}
+.view-ministries .views-field-field-photos-fid {
+    float: left;
+    width: 110px;
+}
+#header-right h3 {
+    margin-top: -15px;
+}
+
+#main-left {
+  float: left;
+  margin-left: 10px;
+}
+
+#main-right {
+  float: left;
+  margin-left: 10px;
+}
+
+#content-area {
+  float: left;
+}
+
+ul.quicktabs_tabs.quicktabs-style-basic li.active {
+  background: url("../images/portal-nav-bg-blue.png");
+  border-color: none;
+}
+
+ul.quicktabs_tabs.quicktabs-style-basic li {
+  background: url("../images/portal-nav-bg-blue.png");
+}
+
+ul.quicktabs_tabs.quicktabs-style-basic li.active a {
+  color: navy;
+}
+
+ul.quicktabs_tabs.quicktabs-style-basic a {
+  color: black;
+}
+
+ul.quicktabs_tabs.quicktabs-style-basic a:hover {
+  color: darkBlue !important;
+}
+
+#footer-left {
+  color: black;
+  float: left;
+  margin-top: -5px;
+  padding-left: 20px;
+}
+
+#footer-right {
+  color: black;
+  float: right;
+  margin-top: -5px;
+  padding-right: 20px;
+}

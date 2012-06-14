@@ -1,0 +1,45 @@
+name = St. Ronald 2011
+description = St. Ronald 2012 Theme
+screenshot = screenshot.png
+engine = phptemplate
+core = "6.x"
+
+; Home Page Regions
+regions[rotator] = Rotator
+regions[welcome] = Welcome
+regions[left_home] = Home Left
+regions[center_home] = Home Center
+regions[right_home] = Home Right
+ 
+; Site-Wide Regions
+regions[menu] = Top Menu Drop-Down
+regions[left] = Left sidebar
+regions[right] = Right sidebar
+regions[content_top] = Content Top
+regions[content_bottom] = Content Bottom
+regions[footer_left] = Footer Left
+regions[footer_center] = Footer Center
+regions[footer_right] = Footer Right
+
+features[] = name
+features[] = slogan
+features[] = mission
+features[] = search
+features[] = favicon
+features[] = primary_links
+features[] = secondary_links
+
+;disabled features, uncomment to activate
+;features[] = logo
+;features[] = node_user_picture
+;features[] = comment_user_picture
+
+stylesheets[all][] = style.css
+stylesheets[all][] = css/tabs.css
+stylesheets[all][] = css/layout.css
+stylesheets[all][] = css/ui.css
+stylesheets[all][] = css/main.css
+;stylesheets[all][] = css/link-icons.css
+;stylesheets[all][] = css/gallery.css
+stylesheets[print][] = css/print.css
+stylesheets[all][] = css/custom.css

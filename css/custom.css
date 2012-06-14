@@ -1,0 +1,164 @@
+html, body {
+  background: #0198E1;
+}
+
+#page {
+  margin: 0 auto;
+  width: auto;
+}
+
+#wrapper {
+  background: white;
+  margin-left: auto;
+  margin-right: auto;
+  width: 980px;
+}
+
+#header {
+  background: url("../images/header-bg.png") repeat scroll 0 0 transparent;
+  border-bottom: 0;
+  height: 113px;
+  padding-bottom: 0;
+  padding-left: 4px;
+  padding-right: 20px;
+}
+
+#search-box {
+  float: right;
+  margin-top: -15px;
+}
+
+#site-logo {
+  width: 500px;
+}
+
+#header-buttons {
+  float: right;
+  height: 58px;
+  margin-top: -60px;
+  width: 270px;
+}
+
+#menu {
+  background: navy;
+  float: left;
+  height: 28px;
+  margin-left: -4px;
+  margin-top: 5px;
+  width: 980px;
+}
+
+.megamenu-skin-minimal {
+  background: transparent;
+}
+
+.megamenu-skin-minimal .megamenu-bin {
+  background-color: #BCD2EE;
+}
+
+.megamenu-skin-minimal .hovering .megamenu-parent-title a:hover {
+  background: skyBlue;
+  color: #00009C;
+}
+
+.megamenu-skin-minimal .megamenu-parent-title a,
+.megamenu-skin-minimal .megamenu-parent-title a:link,
+.megamenu-skin-minimal .megamenu-parent-title a:visited,
+.megamenu-skin-minimal .megamenu-parent-title a:focus,
+.megamenu-skin-minimal .megamenu-parent-title a:hover,
+.megamenu-skin-minimal .megamenu-parent-title a:active,
+.megamenu-skin-minimal .megamenu-parent-title span {
+  background-color: transparent;
+  color: white;
+  font-size: 1.4em;
+  padding: 5px 20px 1px 15px;
+  text-transform: uppercase;
+}
+
+.megamenu-skin-minimal .megamenu-slot-title, .megamenu-skin-minimal .megamenu-slot-title a {
+  background-color: dodgerBlue;
+}
+
+ul#megamenu-primary-links li h3 a {
+  color: white;
+}
+
+#menu div.block {
+  margin-top: 5px;
+}
+
+#rotator {
+  float: left;
+  height: 450px;
+  width: 700px;
+}
+
+#welcome {
+  float: left;
+  height: 450px;
+  width: 270px;
+}
+
+#left-home {
+  background: #003F87;
+  float: left;
+  height: 300px;
+  margin-bottom: 10px;
+  margin-left: 5px;
+  margin-top: 5px;
+  width: 250px;
+}
+
+#center-home {
+  background: #003F87;
+  float: left;
+  height: 300px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 5px;
+  width: 450px;
+}
+
+#right-home {
+  background: #003F87;
+  float: left;
+  height: 300px;
+  margin-bottom: 10px;
+  margin-top: 5px;
+  width: 250px;
+}
+
+#footer {
+  background: purple;
+  height: 125px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#footer-left {
+  background: none;
+  float: left;
+  height: 135px;
+  margin-top: -10px;
+  width: 300px;
+}
+
+#footer-center {
+  background: none;
+  float: left;
+  height: 135px;
+  margin-left: 20px;
+  margin-right: 10px;
+  margin-top: -10px;
+  width: 330px;
+}
+
+#footer-right {
+  background: none;
+  float: left;
+  height: 135px;
+  margin-right: 20px;
+  margin-top: -10px;
+  width: 300px;
+}
